@@ -1,11 +1,11 @@
 # T5 Text Summarizer
 ## Table of Contents
-1. [Introduction]
-2. [File Descriptions]
-3. [Installation]
-4. [Instructions]
-5. [Acknowledgements]
-6. [Screenshots]
+1. Introduction
+2. File Descriptions
+3. Installation
+4. Instructions
+5. Acknowledgements
+6. Screenshots
 
 ## Introduction
 In this project, we will use Google's state-of-the-art T5 model to create a human-like text summarizer.
