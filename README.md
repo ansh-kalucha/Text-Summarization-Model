@@ -1,11 +1,11 @@
 # T5 Text Summarizer
 ## Table of Contents
-1. [Introduction](https://github.com/louisteo9/t5-text-summarizer#introduction)
-2. [File Descriptions](https://github.com/louisteo9/t5-text-summarizer#file-descriptions)
-3. [Installation](https://github.com/louisteo9/t5-text-summarizer#installation)
-4. [Instructions](https://github.com/louisteo9/t5-text-summarizer#instructions)
-5. [Acknowledgements](https://github.com/louisteo9/t5-text-summarizer#acknowledgements)
-6. [Screenshots](https://github.com/louisteo9/t5-text-summarizer#screenshots)
+1. [Introduction]
+2. [File Descriptions]
+3. [Installation]
+4. [Instructions]
+5. [Acknowledgements]
+6. [Screenshots]
 
 ## Introduction
 In this project, we will use Google's state-of-the-art T5 model to create a human-like text summarizer.
